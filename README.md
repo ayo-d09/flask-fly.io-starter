@@ -26,7 +26,7 @@ mini-app/
 ├── fly.toml                      # Fly.io config (created after launch)
 └── .github/
   └── workflows/
-   └── deploy.yml             # CI/CD pipeline
+   └── deploy.yml                 # CI/CD pipeline
 ```
 
 ## Run Locally
