@@ -17,6 +17,7 @@ Every push to `main` automatically builds and ships the app live — no manual s
 
 
 ## Project Structure
+
 ```
 mini-app/
 ├── app.py                        # Flask app
@@ -26,8 +27,7 @@ mini-app/
 └── .github/
   └── workflows/
    └── deploy.yml             # CI/CD pipeline
-´´´
-
+```
 
 ## Run Locally
 
@@ -59,4 +59,4 @@ flyctl deploy --remote-only
 
 ## Live URL
 
-``https://your-app-name.fly.dev´´
+"https://your-app-name.fly.dev"
