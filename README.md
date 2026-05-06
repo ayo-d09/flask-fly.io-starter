@@ -5,7 +5,6 @@ A minimal Flask web app with automated deployment to [Fly.io](https://fly.io) vi
 Every push to `main` automatically builds and ships the app live — no manual steps.
 
 
-
 ## Tech Stack
 
 - **Python / Flask** — web framework
@@ -13,7 +12,6 @@ Every push to `main` automatically builds and ships the app live — no manual s
 - **Docker** — containerization
 - **GitHub Actions** — CI/CD pipeline
 - **Fly.io** — cloud hosting
-
 
 
 ## Project Structure
